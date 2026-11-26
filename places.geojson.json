@@ -1,0 +1,1043 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -45.8210686,
+                    23.3712662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Oldtown",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -40.2282593,
+                    21.6455461
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Starfall",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -18.4880533,
+                    20.5625397
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Sunspear",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        
+        {
+            "geometry": {
+                "coordinates": [
+                    -28.4987961,
+                    27.4652011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Summerhall",
+                "type": "ruin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -21.8283026,
+                    28.2210516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Storm's End",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -27.385737,
+                    32.4298741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "King's Landing",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -45.4458802,
+                    34.0054744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lannisport",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -34.9420326,
+                    34.6289307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stoney Sept",
+                "type": "town"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -19.095144,
+                    34.9482086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dragonstone",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -29.8684126,
+                    36.3384571
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Harrenhal",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -45.1932533,
+                    39.3360368
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pyke",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -35.8657108,
+                    37.7825386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Riverrun",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -25.6691604,
+                    39.7881465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Eyrie",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -18.0070974,
+                    38.862919
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gulltown",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -34.7798082,
+                    41.7355448
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Twins",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -29.1005269,
+                    48.2933248
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "White Harbor",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.6220954,
+                    48.5296648
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Barrowton",
+                "type": "town"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -37.6616129,
+                    50.9838812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Torrhen's Square",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -32.695547,
+                    53.0492307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Winterfell",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.2812099,
+                    55.5496209
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Deepwood Motte",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -24.3945916,
+                    53.7538742
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Dreadfort",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -18.5477261,
+                    55.5130758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Karhold",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -27.0244841,
+                    60.6405607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Castle Black",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -23.8064391,
+                    60.6405607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Eastwatch",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -22.6869482,
+                    63.2672178
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hardhome",
+                "type": "ruin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.8187655,
+                    20.4905435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lys",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -11.7485966,
+                    26.062698
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tyrosh",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.5556978,
+                    26.7045363
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Myr",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.3426,
+                    32.5832763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pentos",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.6284579,
+                    43.1588371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Braavos",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.1911506,
+                    41.8861022
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lorath",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.375641,
+                    36.740454
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Norvos",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.7987439,
+                    33.6772243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ghoyan Drohe",
+                "type": "ruin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3792373,
+                    32.6268241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Qohor",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.3474909,
+                    26.8358363
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Chroyane",
+                "type": "ruin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.8068738,
+                    20.0528768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Volantis",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.543193,
+                    10.8704092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Valyria",
+                "type": "ruin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.6150931,
+                    21.4678534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mantarys",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.6995343,
+                    23.5244496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Meereen",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.7703509,
+                    21.8915149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Yunkai",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.9597986,
+                    18.0544903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Astapor",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.5738236,
+                    13.4377624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Old Ghis",
+                "type": "ruin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.7704962,
+                    9.6523826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "New Ghis",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    60.2547141,
+                    35.7904983
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Vaes Dothrak",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    79.094892,
+                    33.2104527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kayakayanaya",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    75.8557649,
+                    26.0335931
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Samyriana",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    79.2381782,
+                    20.3736865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bayasabahd",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    61.4399523,
+                    17.9597355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Vaes Tolorro",
+                "type": "ruin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    69.8295236,
+                    13.7513507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Qarth",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    67.8288758,
+                    9.1709492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Faros",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    88.8129878,
+                    8.6019824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Yin",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    109.8446235,
+                    -1.2733117
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Asshai",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    61.5407172,
+                    49.9855633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Port of Ibben",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -13.3447555,
+                    6.7640008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lotus Port",
+                "type": "city"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -10.0395238,
+                    5.0244942
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tall Trees Town",
+                "type": "town"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -31.6357289,
+                    47.0551655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Moat Cailin",
+                "type": "ruin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -25.7095379,
+                    57.1972175
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Last Hearth",
+                "type": "castle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -44.64844,
+                    32.32428
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Westerlands",
+                "type": "region"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -29.61914,
+                    25.32417
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dorne",
+                "type": "region"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -41.041525,
+                    26.9187741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Reach",
+                "type": "region"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -45.1932533,
+                    39.3360368
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Iron Islands",
+                "type": "region"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    61.4399523,
+                    17.9597355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Red Waste",
+                "type": "region"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -18.0070974,
+                    38.862919
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Vale",
+                "type": "region"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -33.04688,
+                    11.52309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Summer Sea",
+                "type": "sea"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -10.45898,
+                    46.70756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Shivering Sea",
+                "type": "sea"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -35.8657108,
+                    37.7825386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Riverlands",
+                "type": "region"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.22461,
+                    28.92163
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Dothraki Sea",
+                "type": "region"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -56.42578,
+                    46.19504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Sunset Sea",
+                "type": "sea"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -14.50195,
+                    32.06396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Narrow Sea",
+                "type": "sea"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -33.75,
+                    62.79493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "North of the Wall",
+                "type": "region"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -32.695547,
+                    53.0492307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The North",
+                "type": "region"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -27.385737,
+                    32.4298741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Crownlands",
+                "type": "region"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -27.0244841,
+                    60.6405607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Wall",
+                "type": "region"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -21.8283026,
+                    28.2210516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Stormlands",
+                "type": "region"
+            },
+            "type": "Feature"
+        }
+    ],
+    "name": "places",
+    "type": "FeatureCollection"
+}
